@@ -4,7 +4,7 @@ DELICACY PIZZA INN
 Lydia Kang'eri
 
 ### Project Description
-A website application where customers order different sizes of pizzas with one or more toppings.It also displays the prize of various sizes and you are able to choose if it should be delivered or not. 
+A website application where customers order different sizes of pizzas with one or more toppings.It also displays the prize of various sizes and you are able to choose if it should be delivered or not delivered.
 
 
 ### Prerequisities
