@@ -1,3 +1,4 @@
+# Project's name
 DELICACY PIZZA INN
 
 ## Author
@@ -36,7 +37,7 @@ To access this project on your local files, you can clone it using these steps
 | Date   | The date of the month ``eg 15th day`` |
 
 ### Live Site
-View [Live]( )
+View [Live](  https://lydia-254.github.io/Delicacy-Pizza-Inn/)
 
 ### Licence
 This project is under the  [MIT](LICENSE) licence.
