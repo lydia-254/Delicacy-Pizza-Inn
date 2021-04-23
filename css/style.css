@@ -6,8 +6,8 @@
 .front {
     background-image: url(/images/back.jpeg);
     background-size: cover;
-    width: 150%;
-    height: 500px;
+    width: 140%;
+    height: 450px;
     margin-bottom: 1px;
     background-repeat: no-repeat;
 }
@@ -16,7 +16,6 @@
 }
 #name {
     text-align: center;
-    text-shadow: 2px 2px 5px grey;
     font-family: Arial;
     font-size: large;
     color: aliceblue;
