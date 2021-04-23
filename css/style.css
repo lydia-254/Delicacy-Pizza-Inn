@@ -14,3 +14,9 @@
 .logo {
     text-align: center;
 }
+#name {
+    text-align: center;
+    text-shadow: 2px 2px 5px grey;
+    font-family: Arial;
+    font-size: large;
+}   
