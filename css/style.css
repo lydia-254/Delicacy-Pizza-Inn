@@ -19,4 +19,15 @@
     font-family: Arial;
     font-size: large;
     color: aliceblue;
-}   
+}
+footer{
+    padding-top: 30px;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+}
+footer p{
+    margin-top: 10px;
+    color: rgb(123, 19, 19);
+    font-size: 30px;
+    font-style: italic;
+}
