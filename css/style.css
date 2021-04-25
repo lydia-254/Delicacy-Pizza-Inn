@@ -1,3 +1,8 @@
+h2{
+    font-family: 'Architects Daughter', cursive;
+    color: rgb(200, 219, 29);
+    font-size: 60px;
+}
 body {
     background: url(../images/back.jpeg);
     background-size: cover;
