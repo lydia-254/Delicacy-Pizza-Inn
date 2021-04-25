@@ -23,8 +23,15 @@ li a{
 #about{
     text-align: center;
 }
+h1{
+    font-family: 'Architects Daughter', cursive;
+    font-size: 70px;
+    text-align: center;
+    color: rgb(189, 163, 144);
+    text-shadow: 3px 3px 5px black;
+}
 p{
-    color:chocolate;
+    color:rgb(235, 184, 17);
 }
 
 #img1{
