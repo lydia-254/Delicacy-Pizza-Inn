@@ -28,14 +28,6 @@ To access this project on your local files, you can clone it using these steps
 5. BOOTSRAP
 6. JQUERY
 
-### BDD
-| Inputs | Description |
-|:---        |          ---: |
-| Century  | The century that user was born in, ``eg 20th century``|
-| Year   | The year of the century ``eg 98th year``  |
-| Month  | The month of the year ``eg 7th month``  |
-| Date   | The date of the month ``eg 15th day`` |
-
 ### Live Site
 View [Live](  https://lydia-254.github.io/Delicacy-Pizza-Inn/)
 
